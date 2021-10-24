@@ -14,8 +14,6 @@ A Node.js console app that asks a user for information about their project, then
 
   - [License](#License)
 
-  - [Contributing](#Contributing)
-
   - [Tests](#Tests)
 
 ## Installation
