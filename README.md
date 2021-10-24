@@ -1,6 +1,6 @@
-![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 
-# README Generator
+
+# goodREADMEgenerator
 
 ## Description
 
@@ -52,16 +52,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contributing
-
-This repo is finalized and closed as a school project.
-
 ## Tests
 
 No test files were created for this project.
-
-## Questions
-
-Contact me with questions about the project at my contact info below.
-  
-  - Email: steve.e.quint@gmail.com
