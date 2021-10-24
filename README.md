@@ -38,4 +38,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. AUTHOR SHALL NOT
 
 ## Tests
 
+Run the index.js file in node and follow prompts. After user inputs have been made, the program will display a message that the README.md file has been made.
+
 ![running](https://user-images.githubusercontent.com/88118585/138578030-d68815cf-c4c9-4bb3-8c9e-2918e3a42380.png)
