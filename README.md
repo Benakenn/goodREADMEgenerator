@@ -37,4 +37,5 @@ This is free to copy, modify, publish, use, compile, sell, or distribute this so
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. AUTHOR SHALL NOT BE HELD RESPOSIBLE FOR MISUSE OR DAMAGES INCURRED OVER NEGLIGENCE.
 
 ## Tests
-https://github.com/Benakenn/goodREADMEgenerator#:~:text=9%20minutes%20ago-,running.png,-Added%20running%20image
+
+![running](https://user-images.githubusercontent.com/88118585/138578030-d68815cf-c4c9-4bb3-8c9e-2918e3a42380.png)
