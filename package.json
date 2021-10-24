@@ -1,0 +1,25 @@
+{
+  "name": "README-generator",
+  "version": "1.0.0",
+  "description": "Node.js console app that prompts a user to README input and generates one for them.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sequint/README-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sequint/README-generator/issues"
+  },
+  "homepage": "https://github.com/sequint/README-generator#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.1.2",
+    "prepend-file": "^2.0.0"
+  }
+}
