@@ -4,7 +4,7 @@
 
 ## Description
 
-A Node.js console app that prompts a user for information about their project, then generates a README file for them in the current repository.
+A Node.js console app that asks a user for information about their project, then generates a README file for them.
 
 ## Table of Contents
 
@@ -18,8 +18,6 @@ A Node.js console app that prompts a user for information about their project, t
 
   - [Tests](#Tests)
 
-  - [Questions](#Questions)
-
 ## Installation
 
 - Download Node.js
@@ -32,25 +30,11 @@ Install this folder into your application and run index.js to create a README fr
 
 ## License
 
-The MIT License (MIT)
+This is a free software released into the public domain.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This is free to copy, modify, publish, use, compile, sell, or distribute this software, its source code or as a compiled binary, for commercial or non-commercial use. In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. AUTHOR SHALL NOT BE HELD RESPOSIBLE FOR MISUSE OR DAMAGES INCURRED OVER NEGLIGENCE.
 
 ## Tests
 
